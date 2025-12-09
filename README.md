@@ -50,6 +50,15 @@ about me ...
   />
 </div>
 
+<br />
+<br />
+
+<div align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=jin-hatanaka&custom_title=🚀%20JinHatanaka%20Contribution%20Graph&bg_color=0d1117&color=1f6feb&line=1f6feb&point=1f6feb&area=true&hide_border=true" 
+    alt="Jin Hatanaka GitHub Activity Graph"
+  />
+</div>
 
 
 
