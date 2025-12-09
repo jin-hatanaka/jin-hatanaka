@@ -30,6 +30,27 @@ about me ...
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,nextjs" />
 </p>
+<br />
+
+<h2 align="center">🚀 GitHub Stats 🚀</h2>
+<!-- <h2 align="center">📈 GitHub Stats 📈</h2> -->
+
+<div align="center"> 
+  <a href="https://git.io/streak-stats">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com?user=jin-hatanaka&theme=dark" 
+      alt="GitHub Streak" 
+      height="170px"
+    />
+  </a>
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jin-hatanaka&theme=dark&layout=compact"
+    alt="Top Langs" 
+    height="170px"
+  />
+</div>
+
+
 
 
 <!--
