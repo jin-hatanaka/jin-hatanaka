@@ -59,14 +59,29 @@ about me ...
   </span>
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=jin-hatanaka&theme=dark" alt="GitHub Streak" />
   </a>
-</p> 
+</p>  -->
   
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jin-hatanaka&theme=dark&layout=compact" alt="Top Langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jin-hatanaka&theme=github_dark" />
+</p> -->
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jin-hatanaka&theme=dark&layout=compact&title_color=0366d6" 
+    alt="Top Langs" 
+    height="170px"
+  />
+  &nbsp;&nbsp;
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jin-hatanaka&theme=github_dark" 
+    alt="Most Commit Language"
+    height="170px"
+  />
 </p>
 
 <p align="center">
@@ -75,6 +90,7 @@ about me ...
     alt="Jin Hatanaka GitHub Activity Graph"
   />
 </p>
+
 
 
 
