@@ -48,7 +48,7 @@ about me ...
   />
 </div> -->
 
-<p align="center">
+<!-- <p align="center">
   <span>
     <a href="https://git.io/streak-stats">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=jin-hatanaka&theme=dark" alt="GitHub Streak" />
@@ -57,9 +57,17 @@ about me ...
   <span>
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jin-hatanaka&theme=dark&layout=compact" alt="Top Langs" />
   </span>
-</p>
+</p> -->
 
-<br />
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=jin-hatanaka&theme=dark" alt="GitHub Streak" />
+  </a>
+</p> 
+  
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jin-hatanaka&theme=dark&layout=compact" alt="Top Langs" />
+</p>
 
 <p align="center">
   <img 
