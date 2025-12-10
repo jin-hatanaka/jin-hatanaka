@@ -35,30 +35,27 @@ about me ...
 <h2 align="center">🚀 GitHub Stats 🚀</h2>
 <!-- <h2 align="center">📈 GitHub Stats 📈</h2> -->
 
-<div align="center"> 
+<p align="center"> 
   <a href="https://git.io/streak-stats">
     <img 
       src="https://github-readme-streak-stats.herokuapp.com?user=jin-hatanaka&theme=dark" 
       alt="GitHub Streak" 
-      height="170px"
     />
   </a>
   <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jin-hatanaka&theme=dark&layout=compact"
     alt="Top Langs" 
-    height="170px"
   />
-</div>
+</p>
 
 <br />
-<br />
 
-<div align="center">
+<p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=jin-hatanaka&custom_title=🚀%20JinHatanaka%20Contribution%20Graph&bg_color=0d1117&color=1f6feb&line=1f6feb&point=1f6feb&area=true&hide_border=true" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=jin-hatanaka&custom_title=📊%20Contribution%20Graph&bg_color=0d1117&color=1f6feb&line=1f6feb&point=1f6feb&area=true&hide_border=true" 
     alt="Jin Hatanaka GitHub Activity Graph"
   />
-</div>
+</p>
 
 
 
