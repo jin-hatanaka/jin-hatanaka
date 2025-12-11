@@ -72,13 +72,27 @@ about me ...
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jin-hatanaka&theme=dark&layout=compact&title_color=0366d6" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jin-hatanaka&theme=tokyonight&layout=compact&title_color=70a5fd&hide_border=true" 
     alt="Top Langs" 
     height="170px"
   />
   &nbsp;&nbsp;
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jin-hatanaka&theme=github_dark" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jin-hatanaka&theme=tokyonight" 
+    alt="Most Commit Language"
+    height="170px"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jin-hatanaka&theme=tokyonight" 
+    alt="Most Commit Language"
+    height="170px"
+  />
+  &nbsp;&nbsp;
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jin-hatanaka&theme=tokyonight&utcOffset=9" 
     alt="Most Commit Language"
     height="170px"
   />
