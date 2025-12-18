@@ -2,18 +2,20 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=800&color=00A2FF&center=true&vCenter=true&width=700&height=100&lines=Hi+there+%F0%9F%91%8B;I'm+Jin+Hatanaka;Welcome+to+my+GitHub+Profile!" />
   </a>
 </h1>
+</br>
 
+<h2 align="center">⭐️ About Me ⭐️</h2>
 
 <div align="center">
 
-about me ...
-</br>
-</br>
-</br>
-</br>
-</br>
+🌱 Currently studying to become a Web Engineer
+
+⚛️ Interested in development using modern frontend technologies
+
+🚀 Looking forward to growing as an engineer
 
 </div>
+</br>
 
 <h2 align="center">⚡ Tech Stack ⚡</h2>
 
