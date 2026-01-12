@@ -35,42 +35,6 @@
 <br />
 
 <h2 align="center">🚀 GitHub Stats 🚀</h2>
-<!-- <h2 align="center">📈 GitHub Stats 📈</h2> -->
-
-<!-- <div align="center"> 
-  <a href="https://git.io/streak-stats">
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com?user=jin-hatanaka&theme=dark" 
-      alt="GitHub Streak" 
-    />
-  </a>
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jin-hatanaka&theme=dark&layout=compact"
-    alt="Top Langs" 
-  />
-</div> -->
-
-<!-- <p align="center">
-  <span>
-    <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=jin-hatanaka&theme=dark" alt="GitHub Streak" />
-    </a>
-  </span>
-  <span>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jin-hatanaka&theme=dark&layout=compact" alt="Top Langs" />
-  </span>
-</p> -->
-
-<!-- <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=jin-hatanaka&theme=dark" alt="GitHub Streak" />
-  </a>
-</p>  -->
-  
-<!-- <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jin-hatanaka&theme=dark&layout=compact" alt="Top Langs" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jin-hatanaka&theme=github_dark" />
-</p> -->
 
 <p align="center">
   <img 
@@ -88,13 +52,13 @@
 
 <p align="center">
   <img 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jin-hatanaka&theme=tokyonight" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jin-hatanaka&theme=tokyonight" 
     alt="Most Commit Language"
     height="170px"
   />
   &nbsp;&nbsp;
   <img 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jin-hatanaka&theme=tokyonight&utcOffset=9" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jin-hatanaka&theme=tokyonight&utcOffset=9" 
     alt="Most Commit Language"
     height="170px"
   />
