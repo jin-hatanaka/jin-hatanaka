@@ -53,13 +53,13 @@
 <p align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jin-hatanaka&theme=tokyonight" 
-    alt="Most Commit Language"
+    alt="GitHub stats card"
     height="170px"
   />
   &nbsp;&nbsp;
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jin-hatanaka&theme=tokyonight&utcOffset=9" 
-    alt="Most Commit Language"
+    alt="Productive time card"
     height="170px"
   />
 </p>
