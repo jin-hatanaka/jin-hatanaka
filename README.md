@@ -22,7 +22,7 @@
 <h3 align="center">🔥 Core Skills</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,ruby,rails,nodejs,postgres,linux,docker,bash,git,vscode,vim" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,ruby,rails,nodejs,postgres,linux,docker,bash,git,vscode,vim" />
 </p>
 
 <br />
@@ -30,7 +30,7 @@
 <h3 align="center">🔨 Learning</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs" />
+  <img src="https://skillicons.dev/icons?i=nextjs" />
 </p>
 <br />
 
