@@ -22,16 +22,27 @@
 <h3 align="center">🔥 Core Skills</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,ruby,rails,nodejs,postgres,linux,docker,bash,git,vscode,vim" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nextjs,ruby,rails,nodejs,postgres,linux,docker,bash,git,vscode,vim" />
 </p>
 
 <br />
 
+<!--
 <h3 align="center">🔨 Learning</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs" />
 </p>
+
+<br />
+-->
+
+<h3 align="center">🐣 Want</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go" />
+</p>
+
 <br />
 
 <h2 align="center">🚀 GitHub Stats 🚀</h2>
