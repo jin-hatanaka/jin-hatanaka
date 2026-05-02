@@ -8,11 +8,11 @@
 
 <div align="center">
 
-🌱 Currently studying to become a Web Engineer
+🌱 Web Engineer
 
-⚛️ Interested in development using modern frontend technologies
+⚛️ Developing with modern frontend technologies
 
-🚀 Looking forward to growing as an engineer
+🚀 Continuously growing and building
 
 </div>
 </br>
