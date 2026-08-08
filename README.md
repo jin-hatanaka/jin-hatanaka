@@ -22,7 +22,7 @@
 <h3 align="center">🔥 Core Skills</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nextjs,ruby,rails,nodejs,postgres,linux,docker,bash,git,vscode,vim" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nextjs,ruby,rails,nodejs,postgres,docker,aws,terraform,linux,bash,git,vscode,vim" />
 </p>
 
 <br />
